@@ -38,14 +38,14 @@ class VideoCardsSpider(scrapy.Spider):
         elif response.url.split('=', 1)[1].split('/', 3)[2] == 'www.amazon.com.br':
             products = response.css('div.sg-col-4-of-12')
             for product in products:
+                if not product.css('span.a-offscreen::text').get():
+                    continue
                 product_data = {
                     'nome': product.css('h2').css('span::text').get(),
                     'preco_a_vista': re.sub('[^R$0-9,]', '', product.css('span.a-offscreen::text').get()),
                     'preco_parcelado': re.sub('[^R$0-9,]', '', product.css('span.a-offscreen::text').get()),
                     'url': response.url.split('=', 1)[1],
                 }
-                if not product_data['preco_a_vista']:
-                    continue
 
                 yield product_data
             next_page = response.xpath(
@@ -58,19 +58,22 @@ class VideoCardsSpider(scrapy.Spider):
         elif response.url.split('=', 1)[1].split('/', 3)[2] == 'www.chipart.com.br':
             products = response.css('div.product-card')
 
+            next_page = response.xpath('/html/body/div[1]/main/div[1]/div[2]/div/div[2]/div[2]/section/div/div['
+                                       '3]/div/div/div[3]/div/div[3]/a/@href').extract_first()
+
             for product in products:
+                if not product.css('div.billet').css('span.price.total::text').get():
+                    next_page = False
+                    break
                 product_data = {
                     'nome': product.css('div.product-title').css('h2::text').get(),
                     'preco_a_vista': product.css('div.billet').css('span.price.total::text').get(),
                     'preco_parcelado': product.css('div.creditcard').css('span.price.total::text').get(),
                     'url': response.url.split('=', 1)[1],
                 }
-                if not product_data['preco_a_vista']:
-                    return
+
                 yield product_data
 
-            next_page = response.xpath('/html/body/div[1]/main/div[1]/div[2]/div/div[2]/div[2]/section/div/div['
-                                       '3]/div/div/div[3]/div/div[3]/a/@href')
             if next_page:
-                yield scrapy.Request('http://localhost:8050/render.html?url=https://www.chipart.com.br' + next_page,
+                yield scrapy.Request('http://localhost:8050/render.html?url=https://www.chipart.com.br%s' % next_page,
                                      callback=self.parse)
