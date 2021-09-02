@@ -16,6 +16,15 @@ window = Tk()
 window.geometry("1440x1024")
 window.configure(bg = "#FFFFFF")
 
+def mainMenu():
+    newWindow = Toplevel(window)
+    
+    newWindow.title("New Window")
+ 
+    newWindow.geometry("1440x1024")
+ 
+    Label(newWindow,
+          text ="This is a new window").pack()
 
 canvas = Canvas(
     window,
@@ -66,9 +75,10 @@ button_1 = Button(
     image=button_image_1,
     borderwidth=0,
     highlightthickness=0,
-    command=lambda: print("button_1 clicked"),
+    command= mainMenu,
     relief="flat"
 )
+
 button_1.place(
     x=825.0,
     y=672.0,
@@ -113,5 +123,7 @@ canvas.create_rectangle(
     350.0,
     fill="#FFFFFF",
     outline="")
+
 window.resizable(False, False)
+
 window.mainloop()
