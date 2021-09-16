@@ -1,61 +1,2844 @@
 [
-{"nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING", "preco_a_vista": "R$6.999,91", "preco_parcelado": "R$7954,44", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3", "preco_a_vista": "R$245,70", "preco_parcelado": "R$279,20", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Afox Radeon R5 230 2GB DDR3 64-bit, AFR5230-2048D3L4", "preco_a_vista": "R$ ", "preco_parcelado": "", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD", "preco_a_vista": "R$14.799,81", "preco_parcelado": "R$16817,97", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING", "preco_a_vista": "R$12.999,84", "preco_parcelado": "R$14772,54", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE", "preco_a_vista": "R$29.999,63", "preco_parcelado": "R$34090,49", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G", "preco_a_vista": "R$11.999,85", "preco_parcelado": "R$13636,19", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD", "preco_a_vista": "R$12.999,84", "preco_parcelado": "R$14772,54", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC", "preco_a_vista": "R$11.999,85", "preco_parcelado": "R$13636,19", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1", "preco_a_vista": "R$ ", "preco_parcelado": "", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF", "preco_a_vista": "R$12.999,84", "preco_parcelado": "R$14772,54", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G", "preco_a_vista": "R$12.999,84", "preco_parcelado": "R$14772,54", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL", "preco_a_vista": "R$499,98", "preco_parcelado": "R$568,16", "url": "https://www.pichau.com.br/hardware/placa-de-video"},
-{"nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado", "preco_a_vista": "R$89,75", "preco_parcelado": "R$89,75", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast", "preco_a_vista": "R$481,25", "preco_parcelado": "R$481,25", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L", "preco_a_vista": "R$3699,00", "preco_parcelado": "R$3699,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3", "preco_a_vista": "R$1470,38", "preco_parcelado": "R$1470,38", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990", "preco_a_vista": "R$9246,67", "preco_parcelado": "R$9246,67", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L", "preco_a_vista": "R$3199,00", "preco_parcelado": "R$3199,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU", "preco_a_vista": "R$5627,42", "preco_parcelado": "R$5627,42", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6", "preco_a_vista": "R$5479,00", "preco_parcelado": "R$5479,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128", "preco_a_vista": "R$2949,00", "preco_parcelado": "R$2949,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4", "preco_a_vista": "R$1199,00", "preco_parcelado": "R$1199,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00", "preco_a_vista": "R$2179,00", "preco_parcelado": "R$2179,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/", "preco_a_vista": "R$1949,00", "preco_parcelado": "R$1949,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC", "preco_a_vista": "R$478,59", "preco_parcelado": "R$478,59", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)", "preco_a_vista": "R$105,89", "preco_parcelado": "R$105,89", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas", "preco_a_vista": "R$2036,09", "preco_parcelado": "R$2036,09", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD", "preco_a_vista": "R$5299,90", "preco_parcelado": "R$5299,90", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR", "preco_a_vista": "R$13347,05", "preco_parcelado": "R$13347,05", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax", "preco_a_vista": "R$2026,00", "preco_parcelado": "R$2026,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES", "preco_a_vista": "R$839,00", "preco_parcelado": "R$839,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X", "preco_a_vista": "R$8859,29", "preco_parcelado": "R$8859,29", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB", "preco_a_vista": "R$1250,00", "preco_parcelado": "R$1250,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC", "preco_a_vista": "R$2399,00", "preco_parcelado": "R$2399,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming", "preco_a_vista": "R$5759,90", "preco_parcelado": "R$5759,90", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5", "preco_a_vista": "R$335,60", "preco_parcelado": "R$335,60", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC", "preco_a_vista": "R$6111,00", "preco_parcelado": "R$6111,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6", "preco_a_vista": "R$2490,00", "preco_parcelado": "R$2490,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256", "preco_a_vista": "R$7529,00", "preco_parcelado": "R$7529,00", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC", "preco_a_vista": "R$499,89", "preco_parcelado": "R$499,89", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5", "preco_a_vista": "R$2036,29", "preco_parcelado": "R$2036,29", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas", "preco_a_vista": "R$110,29", "preco_parcelado": "R$110,29", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D", "preco_a_vista": "R$2326,69", "preco_parcelado": "R$2326,69", "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9"},
-{"nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ", "preco_a_vista": "R$ 5.975,68", "preco_parcelado": "R$ 6.868,60", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ", "preco_a_vista": "R$ 6.370,64", "preco_parcelado": "R$ 7.322,57", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ", "preco_a_vista": "R$ 6.502,25", "preco_parcelado": "R$ 7.473,85", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ", "preco_a_vista": "R$ 7.569,64", "preco_parcelado": "R$ 8.700,73", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ", "preco_a_vista": "R$ 7.569,64", "preco_parcelado": "R$ 8.700,73", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ", "preco_a_vista": "R$ 9.203,60", "preco_parcelado": "R$ 10.578,85", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ", "preco_a_vista": "R$ 9.471,19", "preco_parcelado": "R$ 10.886,42", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ", "preco_a_vista": "R$ 10.681,39", "preco_parcelado": "R$ 12.277,46", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ", "preco_a_vista": "R$ 10.681,39", "preco_parcelado": "R$ 12.277,46", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ", "preco_a_vista": "R$ 10.681,39", "preco_parcelado": "R$ 12.277,46", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ", "preco_a_vista": "R$ 11.319,00", "preco_parcelado": "R$ 13.010,34", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ", "preco_a_vista": "R$ 11.869,41", "preco_parcelado": "R$ 13.643,00", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ", "preco_a_vista": "R$ 12.605,30", "preco_parcelado": "R$ 14.488,85", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ", "preco_a_vista": "R$ 14.957,07", "preco_parcelado": "R$ 17.192,04", "url": "https://www.chipart.com.br/placa-de-video"},
-{"nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ", "preco_a_vista": "R$ 15.395,69", "preco_parcelado": "R$ 17.696,20", "url": "https://www.chipart.com.br/placa-de-video"}
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+        "preco_a_vista": "R$6.999,91",
+        "preco_parcelado": "R$7954,44",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3",
+        "preco_a_vista": "R$245,70",
+        "preco_parcelado": "R$279,20",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD",
+        "preco_a_vista": "R$14.799,81",
+        "preco_parcelado": "R$16817,97",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE",
+        "preco_a_vista": "R$29.999,63",
+        "preco_parcelado": "R$34090,49",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC",
+        "preco_a_vista": "R$11.999,85",
+        "preco_parcelado": "R$13636,19",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
+        "preco_a_vista": "R$ ",
+        "preco_parcelado": "",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G",
+        "preco_a_vista": "R$12.999,84",
+        "preco_parcelado": "R$14772,54",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
+        "preco_a_vista": "R$499,98",
+        "preco_parcelado": "R$568,16",
+        "url": "https://www.pichau.com.br/hardware/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Tomshin Suporte para placa gráfica vertical de alumínio GM961 Suporte único para tomada de suporte para PC de mesa Suporte para placa de vídeo Suporte de resfriamento prateado",
+        "preco_a_vista": "R$89,75",
+        "preco_parcelado": "R$89,75",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Tomshin Placa de vídeo externa independente para laptop versão Expresscard Dock para V8.0 EXP GDC Beast",
+        "preco_a_vista": "R$481,25",
+        "preco_parcelado": "R$481,25",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660TI 6GB GHOST GDDR6 192BITS GAINWARD NE6166T018J9-1160L",
+        "preco_a_vista": "R$3699,00",
+        "preco_parcelado": "R$3699,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",
+        "preco_a_vista": "R$1470,38",
+        "preco_parcelado": "R$1470,38",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo GeForce RTX 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X Gainward, 4710562241990",
+        "preco_a_vista": "R$9246,67",
+        "preco_parcelado": "R$9246,67",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "GPU NV GTX1660 6GB GHOST GDDR5 192BITS GAINWARD NE51660018J9-1161L",
+        "preco_a_vista": "R$3199,00",
+        "preco_parcelado": "R$3199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5627,42",
+        "preco_parcelado": "R$5627,42",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5627,42",
+        "preco_parcelado": "R$5627,42",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5627,42",
+        "preco_parcelado": "R$5627,42",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5627,42",
+        "preco_parcelado": "R$5627,42",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5933,59",
+        "preco_parcelado": "R$5933,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5933,59",
+        "preco_parcelado": "R$5933,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB GHOST GD6 256BITS GAINWARD / PALIT NE63060019K9-190AU",
+        "preco_a_vista": "R$5933,59",
+        "preco_parcelado": "R$5933,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Video Asus DUAL-RTX2060-6G-EVO 6GB GDDR6",
+        "preco_a_vista": "R$5479,00",
+        "preco_parcelado": "R$5479,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO ASUS GEFORCE GTX 1650 TUF GAMING 4GB DDR6 128",
+        "preco_a_vista": "R$2949,00",
+        "preco_parcelado": "R$2949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo AFOX Radeon RX 550, 4GB DDR5 128 Bits, HDMI/DVI/DP, AFRX550-4096D5H4-V4",
+        "preco_a_vista": "R$1199,00",
+        "preco_parcelado": "R$1199,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo VGA Asus NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - CERBERUS-GTX1050TI-O4G 90YV0A74-M0NA00",
+        "preco_a_vista": "R$2179,00",
+        "preco_parcelado": "R$2179,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO palit GTX 1050TI 4GB DDR5 128BITS HDMI/",
+        "preco_a_vista": "R$1949,00",
+        "preco_parcelado": "R$1949,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de aquisição de vídeo, para placa de vídeo TypeC UVC para uso com computadores sem TypeC",
+        "preco_a_vista": "R$478,59",
+        "preco_parcelado": "R$478,59",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Kudoo Suporte de placa de vídeo antiarranhões, suporte de placa gráfica, resistente antienvelhecimento para vários hosts de usuários para várias configurações de chassi (Preto)",
+        "preco_a_vista": "R$105,89",
+        "preco_parcelado": "R$105,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX550-4G 4 com 4 telas e tela dividida com profundidade de cor de 10 bits R 4G / 128 bits / GDDR5 com 4 portas",
+        "preco_a_vista": "R$2036,09",
+        "preco_parcelado": "R$2036,09",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 1660 Super Ghost 6GB GDDR6 PCI-E 3.0 NE6166S018J9-1160X GAINWARD",
+        "preco_a_vista": "R$5299,90",
+        "preco_parcelado": "R$5299,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO EVGA GEFORCE RTX 3080 TI XC3 ULTRA GAMING 12GB GDDR6X 384-BIT 12G-P5-3955-KR",
+        "preco_a_vista": "R$13347,05",
+        "preco_parcelado": "R$13347,05",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo NVIDIA GeForce GTX 1050 TI 4GB OC, GDDR5, 128 bits - 50IQH8DSQ31C - Galax",
+        "preco_a_vista": "R$2026,00",
+        "preco_parcelado": "R$2026,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GT 740 GDD5 4GB 128BIT SINGLE FAN - FULL SIZE - PA740GT12804D5FZ - PCYES",
+        "preco_a_vista": "R$839,00",
+        "preco_parcelado": "R$839,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3070TI 8GB PHOENIX G6X 256BITS GAINWARD / PALIT NED307T019P2-1046X",
+        "preco_a_vista": "R$8859,29",
+        "preco_parcelado": "R$8859,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO AMD RADEON RX 550 4GB GDDR5 128 BITS SINGLE-FAN - GRAFFITI SERIES -PJR550X4GB",
+        "preco_a_vista": "R$1250,00",
+        "preco_parcelado": "R$1250,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo PowerColor RX 570 GDDR5 de 4 GB RADEON RX 570 AXRX 570 4GBD5-DHDV3 / OC",
+        "preco_a_vista": "R$2399,00",
+        "preco_parcelado": "R$2399,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de video asus geforce gtx 1660 super oc tuf edition 6gb ddr6 192bits - tuf gtx1660s-o6g-gaming",
+        "preco_a_vista": "R$5759,90",
+        "preco_parcelado": "R$5759,90",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO R7 240 2GB DDR5 128 BITS - PTYT24012802D5",
+        "preco_a_vista": "R$335,60",
+        "preco_parcelado": "R$335,60",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6111,00",
+        "preco_parcelado": "R$6111,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6111,00",
+        "preco_parcelado": "R$6111,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6999,00",
+        "preco_parcelado": "R$6999,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6999,00",
+        "preco_parcelado": "R$6999,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6999,00",
+        "preco_parcelado": "R$6999,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6999,00",
+        "preco_parcelado": "R$6999,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "GPU NV RTX3060 12GB 1-CLICK OC GDDR6 192BITS Galax 36NOL7MD1VOC",
+        "preco_a_vista": "R$6999,00",
+        "preco_parcelado": "R$6999,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6",
+        "preco_a_vista": "R$2490,00",
+        "preco_parcelado": "R$2490,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "PLACA DE VIDEO NVIDIA GEFORCE GPU RTX 3060 TI 8GB GDDR6 256 BITS - GRAFFITI SERIES - PCYES - PP3060TI8DR6256",
+        "preco_a_vista": "R$7529,00",
+        "preco_parcelado": "R$7529,00",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Sunbaca Os gráficos independentes externos da placa de vídeo do portátil entram a mini versão de PCI-E para a besta de V8.0 EXP GDC",
+        "preco_a_vista": "R$499,89",
+        "preco_parcelado": "R$499,89",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa de vídeo RX560D-4G D5 TA Placa de vídeo para jogos discretos com memória DP + DVI-D + 1176 MHz / 6000 MHz 4G / 128 bits / GDDR5",
+        "preco_a_vista": "R$2036,29",
+        "preco_parcelado": "R$2036,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Sunbaca Placa adaptadora PCI-E para 1394 PCI-E x1 para placa de captura de vídeo de alta definição DV de 3 portas com 2 * 1394A 6Pin 1 * 1394A 4Pin portas",
+        "preco_a_vista": "R$110,29",
+        "preco_parcelado": "R$110,29",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": "Sunbaca RX560-4G D5 LP Placa de vídeo para jogos Placa gráfica de 1200/6000 MHz 4G / 128 bits / GDDR5 Memória VGA + + portas de saída DVI-D",
+        "preco_a_vista": "R$2326,69",
+        "preco_parcelado": "R$2326,69",
+        "url": "https://www.amazon.com.br/b?node=16364811011&ref=lp_16364750011_nr_n_9",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Ddr6 Galax Rtx 2060 Super Ex ",
+        "preco_a_vista": "R$ 5.975,68",
+        "preco_parcelado": "R$ 6.868,60",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ",
+        "preco_a_vista": "R$ 6.370,64",
+        "preco_parcelado": "R$ 7.322,57",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2, RGB, 8GB GDDR6, DLSS, LHR, Ray Tracing ",
+        "preco_a_vista": "R$ 6.502,25",
+        "preco_parcelado": "R$ 7.473,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pcie 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6 Powercolor Hellhound Rx 6700xt ",
+        "preco_a_vista": "R$ 7.569,64",
+        "preco_parcelado": "R$ 8.700,73",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " PLACA DE VIDEO ASUS GEFORCE RTX 3070 TI OC 8GB GDDR6X TUF GAMING 256-BIT, TUF-RTX3070TI-O8G-GAMING ",
+        "preco_a_vista": "R$ 9.203,60",
+        "preco_parcelado": "R$ 10.578,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 16gb Gddr6 Powercolor Fighter Rx 6800 ",
+        "preco_a_vista": "R$ 9.471,19",
+        "preco_parcelado": "R$ 10.886,42",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Evga Rtx 3070 Xc3 Ultra Gaming  ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Zotac Twin Edge Oc Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 ",
+        "preco_a_vista": "R$ 10.681,39",
+        "preco_parcelado": "R$ 12.277,46",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo PowerColor Radeon RX 6900 XT Red Devil, 16GB, GDDR6, 256bit, 16GBD6-3DHE/OC ",
+        "preco_a_vista": "R$ 11.319,00",
+        "preco_parcelado": "R$ 13.010,34",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Palit NVIDIA GeForce RTX 3070 GameRock, 8GB, NE63070019P2-1040G ",
+        "preco_a_vista": "R$ 11.869,41",
+        "preco_parcelado": "R$ 13.643,00",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa de Vídeo Asus, TUF, Geforce, RTX 3080, LHR, 10GB, V2, GDDR6X, DLSS, Ray Tracing, TUF-RTX3080-10G-V2-GAMING ",
+        "preco_a_vista": "R$ 12.605,30",
+        "preco_parcelado": "R$ 14.488,85",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 10gb Gddr6x Zotac Trinity Oc Rtx 3080 ",
+        "preco_a_vista": "R$ 14.957,07",
+        "preco_parcelado": "R$ 17.192,04",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "30/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "31/08/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "01/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "02/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "03/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "04/09/2021"
+    },
+    {
+        "nome": " Placa De Video Pci-e 12gb Gddr6x Galax Rtx 3080 Ti ",
+        "preco_a_vista": "R$ 15.395,69",
+        "preco_parcelado": "R$ 17.696,20",
+        "url": "https://www.chipart.com.br/placa-de-video",
+        "data": "05/09/2021"
+    }
 ]
