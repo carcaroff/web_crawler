@@ -1,9 +1,6 @@
 from pathlib import Path
-
 from tkinter import *
 
-import mlxtend
-from mlxtend.plotting import plot_decision_regions
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -492,7 +489,7 @@ canvas.create_text(
     67.0,
     219.0,
     anchor="nw",
-    text="GPU Pricer",
+    text="PAPAPRICE",
     fill="#FFFFFF",
     font=("Roboto Bold", 96 * -1),
     width=559.0
